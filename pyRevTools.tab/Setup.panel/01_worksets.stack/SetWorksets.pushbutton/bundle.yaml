@@ -1,0 +1,9 @@
+title:
+  fr_fr: Sous-projets depuis Excel
+  en_us: Worksets from Excel
+tooltip:
+  fr_fr: Crée les sous-projets depuis Excel.  Utiliser l'outil "Liste de sous-projets vers Excel" pour créer le fichier.
+  en_us: Create worksets from an Excel file.  Use the "Workset list to Excel" tool to create the file.
+
+highlight: new
+author: 'Hanif Jeshani'

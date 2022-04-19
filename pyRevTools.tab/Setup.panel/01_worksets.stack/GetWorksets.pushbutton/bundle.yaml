@@ -1,0 +1,10 @@
+title:
+  fr_fr: Sous-projets vers Excel
+  en_us: Workset to Excel
+tooltip:
+  fr_fr: Exporte une liste des sous projets dans Excel
+  en_us: Export a list of worksets to Excel
+
+highlight: new
+
+author: 'Hanif Jeshani'

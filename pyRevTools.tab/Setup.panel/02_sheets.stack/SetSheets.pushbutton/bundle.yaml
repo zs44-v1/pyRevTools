@@ -1,0 +1,10 @@
+title:
+  fr_fr: Feuilles depuis Excel
+  en_us: Sheets from Excel
+tooltip:
+  fr_fr: Crée les feuilles depuis Excel.  Utiliser l'outil "Liste de feuilles vers Excel" pour créer le fichier.
+  en_us: Create sheets from an Excel file.  Use the "Sheet list to Excel" tool to create the file.
+
+# highlight: new
+
+author: 'Hanif Jeshani'
